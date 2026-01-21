@@ -76,6 +76,7 @@ Standard space with no gravity.
     $$\frac{d^2x^\mu}{d\tau^2} + \Gamma^\mu_{\alpha\beta} u^\alpha u^\beta = 0$$
 4.  **Integration:** The state vector $[x, y, v_x, v_y]$ is updated every time step using numerical integration.
 
+![alt text](image.png)
 ##  Project Structure
 
 * `main.py`: The entry point. Handles user input, the simulation loop, and visualization.

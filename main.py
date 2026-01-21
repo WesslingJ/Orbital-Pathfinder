@@ -55,7 +55,7 @@ state = StateVector(x=10.0, y=0.0, v_x=0.0, v_y=v_y_val)
 x_history = [state.x]
 y_history = [state.y]
 
-# --- Symulation loop ---
+# --- Simulation loop ---
 
 def update(frame):
 
